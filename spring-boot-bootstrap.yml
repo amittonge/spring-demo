@@ -1,0 +1,6 @@
+env:
+  spring:
+    application:
+      name: demoservice
+  server:
+    port: 9090
